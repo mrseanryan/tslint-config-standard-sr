@@ -1,5 +1,7 @@
 # TSLint Config Standard
 
+- forked by SR so all my projects shared the same rules
+
 [![NPM version](https://img.shields.io/npm/v/tslint-config-standard.svg?style=flat)](https://npmjs.org/package/tslint-config-standard)
 [![NPM downloads](https://img.shields.io/npm/dm/tslint-config-standard.svg?style=flat)](https://npmjs.org/package/tslint-config-standard)
 [![Build status](https://img.shields.io/travis/blakeembrey/tslint-config-standard.svg?style=flat)](https://travis-ci.org/blakeembrey/tslint-config-standard)
